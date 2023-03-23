@@ -2,10 +2,12 @@
 
 /*
 Write a SELECT statement that returns these column names and data from the Products table:
+
 ProductName |	The ProductName column
 ListPrice   | 	The ListPrice column
 DateAdded   |	The DateAdded column
-Return only the rows with a list price that’s greater than 500 and less than 2000.
+
+Return only the rows with a list price thatï¿½s greater than 500 and less than 2000.
 Sort the result set in descending sequence by the DateAdded column.
 */
 
